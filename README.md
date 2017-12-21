@@ -1,2 +1,2 @@
 # sysadmin
-scripts
+diverse scripts 
