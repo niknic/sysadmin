@@ -12,4 +12,4 @@ iptraf
 nmap
 
 vim
-    - ntree:wq
+    - ntree
